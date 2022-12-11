@@ -4,3 +4,6 @@
 
 ## My Projects
 <a href="https://project1-production-daee.up.railway.app/" rel="nofollow">My Futures Monitor</a>, a web application that monitors the price of the major stock indices from the USA and Europe
+
+## Contact me
+You can reach me at andreisovidiu@gmail.com
