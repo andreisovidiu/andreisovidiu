@@ -1,6 +1,6 @@
-## Hi there, I'm Andrei!👋
+### Hi there, I'm Andrei!👋
 
-### My Projects
+#### My projects
 
 * <a href="https://project1-production-daee.up.railway.app/" rel="nofollow">My Futures Monitor</a>, a web application that monitors the price of the major stock indices from the USA and Europe
 
@@ -8,7 +8,7 @@
 
 * My COTindex, a web API currently under development that analyses the Commitment of Traders data from the CFTC 
 
-### Wordpress websites
+#### Wordpress websites
 * <a href="https://soacmsystems.com/" rel="nofollow">soacmsystems</a>
 * <a href="https://mpwellness.net/" rel="nofollow">mpwellness</a>
 
