@@ -14,7 +14,7 @@
 
 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisovidiu&layout=compact&theme=tokyonight"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisovidiu&layout=compact&theme=tokyonight"/>
 
 
 ### Contact me
