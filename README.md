@@ -11,12 +11,6 @@ Web application that allows the user to build and customize simple but effective
 * My COTindex <br>
 Web API currently under development that analyses the Commitment of Traders data from the CFTC 
 
-#### Wordpress websites
-* <a href="https://soacmsystems.com/" rel="nofollow">soacmsystems</a>
-* <a href="https://mpwellness.net/" rel="nofollow">mpwellness</a>
-
-
-
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisovidiu&layout=compact&theme=tokyonight"/>
 
 
