@@ -12,5 +12,5 @@ Python script that monitors CPU, RAM and DISK space values of a Linux/Unix opera
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisovidiu&layout=compact&theme=tokyonight"/>
 
 
-### Contact me
+#### Contact me
 You can reach me at andreisovidiu@gmail.com
