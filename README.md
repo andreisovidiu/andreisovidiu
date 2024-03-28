@@ -1,5 +1,3 @@
-### Hi there, I'm Andrei!👋
-
 #### Projects
 
 * <a href="https://project1-production-daee.up.railway.app/" rel="nofollow">My Futures Monitor</a> <br>
