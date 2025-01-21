@@ -1,6 +1,6 @@
 #### Projects
 
-* <a href="https://easylanguagecomp-production.up.railway.app" rel="nofollow">EasyLanguage Composer</a> <br>
+* <a href="https://easylanguagecomp-production.up.railway.app" rel="nofollow">EasyLanguage Generator</a> <br>
 Django MVP that allows the user to build and customize simple but effective trading systems
 
 * <a href="https://project1-production-daee.up.railway.app/" rel="nofollow">My Futures Monitor</a> <br>
