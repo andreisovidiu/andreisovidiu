@@ -1,6 +1,6 @@
 #### Projects
 
-* <a href="https://youtu.be/-RKKp_B5HP4" rel="nofollow">EasyLanguage Coder</a> <br>
+* <a href="https://easylanguagecoder.com/" rel="nofollow">EasyLanguage Coder</a> <br>
 Django MVP that allows the user to build and customize simple but effective trading systems.
 It implements a Retrieval-Augmented Generation (RAG) system using OpenAI and PGVector, integrated into a Django-based chat interface. The system enhances LLM responses by retrieving relevant information from a vector database, ensuring more accurate and contextually rich answers.
 
