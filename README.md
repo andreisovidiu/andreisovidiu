@@ -7,6 +7,10 @@ It implements a Retrieval-Augmented Generation (RAG) system using OpenAI and PGV
 * <a href="https://github.com/andreisovidiu/servermonitoring" rel="nofollow">Linux/Unix Monitor</a> <br>
 Python script that monitors CPU, RAM and DISK space values of a Linux/Unix operating system. It alerts the user through a Telegram message and a Twilio cellphone message once the values are breached.
 
+* BioDating <br>
+*A men's health tech* app inspired by the Femtech movement.
+BioDating is a science-backed dating optimization app for men that leverages biology and neuroscience to enhance confidence, compatibility, and connection.
+
 
 #### Contact me
 You can reach me at andreisovidiu@gmail.com
