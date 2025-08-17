@@ -8,8 +8,7 @@ It implements a Retrieval-Augmented Generation (RAG) system using OpenAI and PGV
 Python script that monitors CPU, RAM and DISK space values of a Linux/Unix operating system. It alerts the user through a Telegram message and a Twilio cellphone message once the values are breached.
 
 * BioDating <br>
-*A men's health tech* app inspired by the Femtech movement.
-BioDating is a science-backed dating optimization app for men that leverages biology and neuroscience to enhance confidence, compatibility, and connection.
+A men’s health app focused on optimizing dating outcomes through science. It provides actionable insights based on biology and neuroscience to enhance confidence, refine social interactions, and increase your likelihood of successful dates, giving you the edge in the dating world.
 
 
 #### Contact me
