@@ -11,7 +11,7 @@ Python script that monitors CPU, RAM and DISK space values of a Linux/Unix opera
 An innovative health-tech mobile app that helps couples understand and optimize their intimate life by tracking hormonal cycles and libido patterns. Built with React Native and Expo, it provides scientifically-backed insights to enhance relationship intimacy and connection.
 The app leverages established research on hormonal cycles and their impact on libido, desire, and intimate relationships. It provides insights into estrogen peaks, ovulation, and other cycle phases affect mood, energy and desire.
 
-* Leetcode <br>
+### Leetcode <br>
 https://leetcode.com/u/soacm/
 
 #### Contact me
