@@ -7,7 +7,7 @@ It implements a Retrieval-Augmented Generation (RAG) system using OpenAI and PGV
 * <a href="https://github.com/andreisovidiu/servermonitoring" rel="nofollow">Linux/Unix Monitor</a> <br>
 Python script that monitors CPU, RAM and DISK space values of a Linux/Unix operating system. It alerts the user through a Telegram message and a Twilio cellphone message once the values are breached.
 
-* intiMate <br>
+* Intimigo <br>
 An innovative health-tech mobile app that helps couples understand and optimize their intimate life by tracking hormonal cycles and libido patterns. Built with React Native and Expo, it provides scientifically-backed insights to enhance relationship intimacy and connection.
 The app leverages established research on hormonal cycles and their impact on libido, desire, and intimate relationships. It provides insights into estrogen peaks, ovulation, and other cycle phases affect mood, energy and desire.
 
