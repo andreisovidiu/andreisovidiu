@@ -8,8 +8,11 @@ It implements a Retrieval-Augmented Generation (RAG) system using OpenAI and PGV
 Python script that monitors CPU, RAM and DISK space values of a Linux/Unix operating system. It alerts the user through a Telegram message and a Twilio cellphone message once the values are breached.
 
 * <a href="https://apps.apple.com/us/app/intimigo-cycle-tracker/id6752911868" rel="nofollow">Intimigo</a> <br>
-An innovative health-tech mobile app that helps couples understand and optimize their intimate life by tracking hormonal cycles and libido patterns. Built with React Native and Expo, it provides scientifically-backed insights to enhance relationship intimacy and connection.
-The app leverages established research on hormonal cycles and their impact on libido, desire, and intimate relationships. It provides insights into estrogen peaks, ovulation, and other cycle phases affect mood, energy and desire.
+Deepen Your Connection Through Health Insights.
+Track health metrics together and receive AI-powered insights to understand each other's energy, mood, and needs. Intimigo helps couples sync their connection, intimacy, and support with their partner's natural rhythms.
+Why Intimigo?
+Health patterns affect energy, intimacy, and emotional needs. Intimigo tracks sleep, steps, cycle data, and more to provide personalized AI insights that help you be there for your partner at the right time.
+
 
 #### Leetcode <br>
 https://leetcode.com/u/soacm/
